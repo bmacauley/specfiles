@@ -7,7 +7,7 @@
 # 
 # sudo yum -y install rpmdevtools ed bison mercurial && rpmdev-setuptree
 # 
-# wget https://raw.github.com/bmacauley/specfiles/master/go-1.0/go-1.1.1.spec -O ~/rpmbuild/SPECS/go-1.1.1.spec
+# wget https://raw.github.com/bmacauley/specfiles/master/go-1.1.1.spec -O ~/rpmbuild/SPECS/go-1.1.1.spec
 # wget https://go.googlecode.com/files/go1.1.1.src.tar.gz -O ~/rpmbuild/SOURCES/go1.1.1.src.tar.gz
 # 
 # rpmbuild -bb ~/rpmbuild/SPECS/go-1.1.1.spec
