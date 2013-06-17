@@ -1,6 +1,6 @@
 ##########################
 #  User-modifiable configs
-##########################
+###########################
 
 #  Is the resulting package and the installed binary named "python" or
 #  "python2"?
