@@ -1,5 +1,5 @@
 specfiles
 =========
 
-CentOS/RH RPM spec files
+A collection of my RPM spec files for RHEL/CentOS
 
