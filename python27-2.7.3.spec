@@ -1,3 +1,17 @@
+# Originally from https://raw.github.com/nmilford/specfiles/master/python-2.7/python27-2.7.2.spec
+
+# To build:
+# 
+# sudo yum -y install rpmdevtools ed bison mercurial && rpmdev-setuptree
+# 
+# wget https://raw.github.com/bmacauley/specfiles/master/python27-2.7.3.spec -O ~/rpmbuild/SPECS/python27-2.7.3.spec
+# wget http://www.python.org/ftp/python/2.7.3/Python-2.7.3.tar.bz2 -O ~/rpmbuild/SOURCES/Python-2.7.3.tar.bz2
+
+# QA_RPATHS=$[ 0x0001|0x0010 ] rpmbuild -bb ~/rpmbuild/SPECS/python27-2.7.3.spec
+
+
+
+
 ##########################
 #  User-modifiable configs
 ###########################
